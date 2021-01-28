@@ -9,3 +9,5 @@ Durante el curso el alumno aprenderá el flujo de trabajo que debe seguir un _da
 - Desde el punto de vista práctico, el curso contempla el estudio de _frameworks_ y liberías ampliamente utilizados en entornos de producción de proyectos de _Machine Learning_.
 
 Finalmente, también se contempla estudiar técnicas para medir el desempeño de estos algoritmos y optimizar su funcionamiento. Al final del curso el alumno conocerá en qué contexto usar cada uno de los modelos, entendiendo sus ventajas y desventajes. Además podrá desarrollar algunos de estos modelos desde cero.
+
+Este repositorio almacena los desarrollos de las actividades, en los cuales se aplica los conocimientos de las clases
